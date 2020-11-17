@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/obj/Debug/net5.0/LabWorkNumber4.csprojAssemblyReference.cache
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/obj/Debug/net5.0/LabWorkNumber4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/obj/Debug/net5.0/LabWorkNumber4.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/obj/Debug/net5.0/LabWorkNumber4.AssemblyInfo.cs
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/obj/Debug/net5.0/LabWorkNumber4.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/bin/Debug/net5.0/LabWorkNumber4.deps.json
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/bin/Debug/net5.0/LabWorkNumber4.runtimeconfig.json
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/bin/Debug/net5.0/LabWorkNumber4.runtimeconfig.dev.json
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/bin/Debug/net5.0/LabWorkNumber4.dll
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/bin/Debug/net5.0/ref/LabWorkNumber4.dll
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/bin/Debug/net5.0/LabWorkNumber4.pdb
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/obj/Debug/net5.0/LabWorkNumber4.dll
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/obj/Debug/net5.0/ref/LabWorkNumber4.dll
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/obj/Debug/net5.0/LabWorkNumber4.pdb
+/Users/oleg/Desktop/LabWorkNumber4/LabWorkNumber4/obj/Debug/net5.0/LabWorkNumber4.genruntimeconfig.cache
