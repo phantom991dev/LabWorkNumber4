@@ -64,7 +64,7 @@ namespace LabWorkNumber4
 
                 i++;
 
-                Console.WriteLine("Введите для продолжения любое число, для выхода 0:");
+                Console.WriteLine("Для продолжения работы программы введите любое число, для выхода 0:");
 
                 number = Convert.ToInt32(Console.ReadLine());
 
