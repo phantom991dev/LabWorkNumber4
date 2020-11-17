@@ -16,13 +16,13 @@ namespace LabWorkNumber4
 
             i = 1;
 
-            Z = (1.0 / (1.0 * 3.0));
+            Z = (2 / (1.0 * 3.0));
 
             extent_X = 1;
 
-            x1 = 2;
+            x1 = 3;
 
-            x2 = 4;
+            x2 = 5;
 
             Console.Write("Введите X -  ");
 
